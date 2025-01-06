@@ -90,13 +90,13 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Your Tasks: 
 
-1. Open a pull request and let your teacher know that you’ve finished this course.  
-2. Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-3. Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-4. Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
+1. Watch This video: [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
+2. Open a pull request and let the professor know that you’ve finished this course.  
+3. Create a new markdown file in this repository. Let the professor know what you learned and what you are still confused about (Min 100 words, Max 300 words). Experiment with different text styles! 
+4. Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+5. Go to your user dashboard and create a new repository called "CM3-CS-1" add a README file and invite your professor to join the repository as a collaborator. 
 
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
+## 📚  Helpful Resources 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
