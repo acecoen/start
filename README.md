@@ -91,7 +91,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ## 📝 Your Tasks: 
 
 1. Watch This video: [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
-2. Create a new markdown file in this repository. Let the professor know what you learned and what you are still confused about (Min 100 words, Max 300 words). Experiment with different text styles! 
+2. Create a new markdown file in this repository with your first and last name as the filename (example: first_lastname.md). In the pull-request comment, let the professor know what you learned and what, if anything, you are still confused about (Min 100 words, Max 300 words). Experiment with different text styles in your file! 
 3. Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 4. Go to your user dashboard and create a new repository called "CM3-CS-1" add a README file and invite your professor to join the repository as a collaborator.
 5. Open a pull request in **this repository** to let the professor know that you’ve finished this course.  
